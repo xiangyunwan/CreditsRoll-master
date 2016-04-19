@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\android_github\CreditsRoll-master\demo\build\intermediates\exploded-aar\CreditsRoll-master\lib\unspecified\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="9ada95dc87053aed2012f0fd339b3139a7185c76">
+        <dex dex="D:\android_github\CreditsRoll-master\demo\build\intermediates\pre-dexed\debug\CreditsRoll-master-lib-unspecified_47f390ba83ced446accb60bc4d7c33dbed1f6188.jar" />
+    </item>
+    <item
+        jar="D:\android-studio\gradle\gradle-2.10-all\gradle-2.8-all\gradle-2.8\caches\modules-2\files-2.1\com.nineoldandroids\library\2.4.0\e9b63380f3a242dbdbf103a2355ad7e43bad17cb\library-2.4.0.jar"
+        jumboMode="false"
+        revision="23.0.1"
+        sha1="e9b63380f3a242dbdbf103a2355ad7e43bad17cb">
+        <dex dex="D:\android_github\CreditsRoll-master\demo\build\intermediates\pre-dexed\debug\library-2.4.0_9a38101d117ba9933bdc96f6145ea359249a49ec.jar" />
+    </item>
+
+</items>
